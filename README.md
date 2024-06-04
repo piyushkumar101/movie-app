@@ -19,19 +19,29 @@ This project is a basic clone of the IMDb homepage and movie detail page using R
 ## Backend
 
 Navigate to the backend directory:
+
 - cd Backend
+  
 Install the dependencies:
+
 - go mod tidy
+  
 Run the GoLang server:
+
 - go run main.go
 
 ## Frontend
 
 Navigate to the frontend directory:
+
 - cd frontend
+  
 Install the dependencies:
+
 - npm install
+
 Start the React application:
+
 - npm start
 
 ### Testing
